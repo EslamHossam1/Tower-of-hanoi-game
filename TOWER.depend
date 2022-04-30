@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1650898058 source:d:\eslam\codeblocks\projects\tower\main.cpp
+	<iostream>
+	<unistd.h>
+	"header.h"
+
+1650896118 d:\eslam\codeblocks\projects\tower\header.h
+	<iostream>
+	<iomanip>
+
+1650898058 source:d:\eslam\game project\main.cpp
+	<iostream>
+	<unistd.h>
+	"header.h"
+
+1650896118 d:\eslam\game project\header.h
+	<iostream>
+	<iomanip>
+
